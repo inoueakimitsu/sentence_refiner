@@ -2,8 +2,6 @@
 
 Sentence Refiner is a tool for refining text with case structure analysis and machine translation.
 
-
-
 ![image-20210728094345049](images/image-20210728094345049.png)
 
 ##  Quickstart
